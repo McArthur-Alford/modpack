@@ -1,0 +1,13 @@
+name = "Storage Delight (Fabric)"
+filename = "storagedelight-24.09.11-1.20-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab6ed9a95bd5324fb2c8326dbac76fe7250b7ffb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5714774
+project-id = 978786

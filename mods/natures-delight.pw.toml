@@ -1,0 +1,13 @@
+name = "Nature's Delight"
+filename = "naturesdelight-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2011884b264c6a882d8a1fe650b49eddcea4f144"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5619632
+project-id = 1082132

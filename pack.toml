@@ -1,0 +1,12 @@
+name = "magical magic"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "37ca27ec7c163a2dfe177b4b2b33f83d33dab6aab01f1d44ee66d9fec1054fde"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.20.1"
