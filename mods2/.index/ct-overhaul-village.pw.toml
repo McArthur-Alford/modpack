@@ -1,0 +1,13 @@
+filename = '[Fabric]CTOV-3.4.7.jar'
+name = "ChoiceTheorem's Overhauled Village"
+side = 'server'
+
+[download]
+hash = '734734a87ad3ce212bcbcdac1a9768c0e48cf2e8af61ce7483dc31f03ef0dde36e586b0a970ee91e1692316aa429711f2df1adff99d3b81d7a9d5cc7bfe15f02'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fgmhI8kH/versions/zFCH14OH/%5BFabric%5DCTOV-3.4.7.jar'
+
+[update.modrinth]
+mod-id = 'fgmhI8kH'
+version = 'zFCH14OH'

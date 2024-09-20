@@ -1,0 +1,13 @@
+filename = 'naturesdelight-1.6.jar'
+name = "Nature's Delight"
+side = 'both'
+
+[download]
+hash = 'f0d6fa5fbc5219f07013e152ee38c474562ea7c7ccb6994df0358566b5699920818a70eaf627cfb1dbd1a9bcf743e0c8c25bd6259ab47fac8f6130262cbe8b73'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/18s8zHvJ/versions/EdNrnKch/naturesdelight-1.6.jar'
+
+[update.modrinth]
+mod-id = '18s8zHvJ'
+version = 'EdNrnKch'
